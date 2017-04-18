@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1491032664 source:e:\cwork\work2\chapter6.6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
